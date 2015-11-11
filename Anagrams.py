@@ -1,4 +1,12 @@
+__author__ = "Ethan Richards"
+#IWU CIS 125
+#Anagrams
+#Anagram.py
+#finds anagrams that start with v
+
+
 import string
+
 
 def sortletters(word):
     word = word.lower()
